@@ -1,4 +1,5 @@
-from Pack01 import module01
+from Pack01 import module02
+from Pack03 import mod1
 def main():
     print("is MAIN.")
 
